@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> :)) Hi There!!! MY Third PIPELINE WORKS PROPERLY!!!!!   We are migrating this WebApp from GitHub into Azure cloud using Azure piplines!!!!!!!!</h2>
+	<h2> :)) Hi There! wiem !! MY Third PIPELINE WORKS PROPERLY!!!!!   We are migrating this WebApp from GitHub into Azure cloud using Azure piplines!!!!!!!!</h2>
   
 </body>
 </html>
